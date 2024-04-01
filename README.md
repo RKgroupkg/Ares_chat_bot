@@ -3,7 +3,7 @@ Meet Ares, the free Telegram bot crafted by rkgroup. Powered by the Gemini_Pro m
 
 
 
-#Features:- 
+# Features:- 
 1. respond to text message which start with its strtswitch (hey ares,hi ares,yo ares,ares) .
 2. it uses gemini-pro as its text model.
 3. Have two settings for chat multi-turn-conversation  and genrative_converastion.
@@ -11,5 +11,5 @@ Meet Ares, the free Telegram bot crafted by rkgroup. Powered by the Gemini_Pro m
 5. it can reply to any image
 
 
-#Disclamer:- 
+# Disclamer:- 
 This project is temporary and will be working till gemnie is free and free to use. And this project was build for fun purposes.
