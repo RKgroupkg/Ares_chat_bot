@@ -1,0 +1,4 @@
+name:- Ares
+username:- https://t.me/Ares_chatBot
+
+description:- Meet Ares, the free Telegram bot crafted by rkgroup. Powered by the Gemini_Pro model, Ares offers quick answers, engaging chats, and personalized recommendations. Created with innovation in mind, Ares is your go-to chat companion for seamless communication. Try Ares now and experience convenience at your fingertips.
