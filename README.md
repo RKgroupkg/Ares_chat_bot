@@ -13,3 +13,10 @@ Meet Ares, the free Telegram bot crafted by rkgroup. Powered by the Gemini_Pro m
 
 # Disclamer:- 
 This project is temporary and will be working till gemnie is free and free to use. And this project was build for fun purposes.
+
+
+
+# donations
+link:- https://www.buymeacoffee.com/Rkgroup
+
+Help me to make this project offical project and it will help me to make it run-forever
